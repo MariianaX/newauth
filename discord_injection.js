@@ -11,7 +11,7 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "doenerium",
+    brand: "marianax",
 
     webhook: "REPLACE_ME",
 
@@ -20,7 +20,7 @@ var config = {
 
     notify_on_logout: true,
     notify_on_initialization: true,
-    ping: [true, "@doener"],
+    ping: [true, "@mariianax"],
 
     embed: {
         username: "marianax | t.me/mariianax",
